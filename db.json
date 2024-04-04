@@ -1,0 +1,14 @@
+{
+  "payment": [
+    {
+      "id": 1,
+      "code": "200",
+      "status": "success"
+    },
+    {
+      "id": 2,
+      "code": "200",
+      "status": "fail"
+    }
+  ]
+}
